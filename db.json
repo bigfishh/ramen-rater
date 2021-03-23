@@ -13,8 +13,8 @@
       "name": "Naruto Ramen",
       "restaurant": "Naruto",
       "image": "./assets/ramen/naruto.jpg",
-      "rating": 10,
-      "comment": "My absolute fave!"
+      "rating": "10",
+      "comment": "My absolute fave"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "restaurant": "Ippudo",
       "image": "./assets/ramen/nirvana.jpg",
       "rating": "7",
-      "comment": "Do buy the hype."
+      "comment": "Do buy the hype~~~~~~~~~~~"
     },
     {
       "id": 4,
