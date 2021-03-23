@@ -27,15 +27,9 @@ The endpoints you will need are:
 ## Core Deliverables
 
 As a user, I can:
-<!-- 
-- See all ramen images in the `div` with the id of `ramen-menu`. 
 
-When the page loads, request the data from the server to get all the ramen objects. 
-
-Then, display the image for each of the ramen using an an `img` tag inside the `#ramen-menu` div. -->
-
-<!-- - Click on an image from the `#ramen-menu` div and see all the info about that ramen displayed inside the `#ramen-detail` div, as well as the current rating and comment for the ramen displayed in the `#ramen-rating` form. -->
-
+- See all ramen images in the `div` with the id of `ramen-menu`. When the page loads, request the data from the server to get all the ramen objects. Then, display the image for each of the ramen using an an `img` tag inside the `#ramen-menu` div.
+- Click on an image from the `#ramen-menu` div and see all the info about that ramen displayed inside the `#ramen-detail` div, as well as the current rating and comment for the ramen displayed in the `#ramen-rating` form.
 - Update the rating and comment for a ramen. When the `#ramen-rating` form is submitted, it should update the value on the server. Changes should also be reflected on the frontend (you can test this by submitting the form; clicking a different ramen image; then clicking the image for the ramen you updated - you should see the rating and comment that you submitted previously).
 
 ## Advanced Deliverables
